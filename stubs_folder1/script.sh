@@ -12,6 +12,6 @@ curl -X POST http://localhost:8080/__admin/mappings \
       "headers": {
         "Content-Type": "application/json"
       },
-      "body": "{\"message\": \"GET is working\"}"
+      "body": "{\"message\": \"GET is working as expected\"}"
     }
   }'
